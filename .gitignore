@@ -23,5 +23,6 @@ TestResult.xml
 *.old
 StyleCop.Cache
 Backup/
-
 CommandLine.sln.DotSettings.user
+buildpackages/
+packaging/

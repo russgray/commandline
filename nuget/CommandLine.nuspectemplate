@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<package xmlns='http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd'>
+    <metadata>
+        <id>@project@</id>
+        <version>@build.number@</version>
+        <title>Command Line Parser Library</title>
+        <authors>@authors@</authors>
+        <description>@description@</description>
+        <releaseNotes/>
+        <copyright>Copyright (c) 2005 - 2013 Giacomo Stelluti Scala</copyright>
+        <licenseUrl>https://raw.github.com/russgray/commandline/master/doc/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/russgray/commandline</projectUrl>
+        <owners>Giacomo Stelluti Scala</owners>
+        <iconUrl>https://github.com/russgray/commandline/raw/master/art/CommandLine.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>@tags@</tags>
+    </metadata>
+    @files@
+</package>

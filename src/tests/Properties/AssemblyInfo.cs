@@ -40,6 +40,7 @@ using CommandLine.Text;
 [assembly: AssemblyTitle("CommandLine.Tests.dll")]
 [assembly: AssemblyDescription("Command Line Parser Library allows CLR applications to define a syntax for parsing command line arguments.")]
 [assembly: AssemblyCulture("")]
+[assembly: AssemblyCopyrightAttribute("Copyright (c) 2005 - 2013 Giacomo Stelluti Scala")]
 
 [assembly: AssemblyLicense(
     "This is free software. You may redistribute copies of it under the terms of",

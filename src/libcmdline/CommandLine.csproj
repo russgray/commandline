@@ -62,9 +62,6 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\SharedAssemblyInfo.cs">
-      <Link>Properties\SharedAssemblyInfo.cs</Link>
-    </Compile>
     <Compile Include="Attributes\BaseOptionAttribute.cs" />
     <Compile Include="Attributes\OptionAttribute.cs" />
     <Compile Include="Attributes\OptionArrayAttribute.cs" />
